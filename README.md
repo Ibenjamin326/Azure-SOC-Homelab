@@ -29,23 +29,24 @@ Create Virtual Network then a Virtual Machine(Windows10):  <br/>
 <br />
 Connect to the Virtual Machine and turn off Windows firewall: <br/>
 <img src="https://i.imgur.com/znw1WjP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/hdVoWIV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Search Log Analytics workspace to create a log repository:  <br/>
 <img src="https://i.imgur.com/o1M8AjU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Setup DHCP & Configure DHCP Server:  <br/>
-<img src="https://i.imgur.com/brenozM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Add Microsoft Sentinal and then install Windows Security Events:  <br/>
+<img src="https://i.imgur.com/JscMH0W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zEmr3DG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create a new VM for the Client:  <br/>
-<img src="https://i.imgur.com/3UtJZ3q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+:  <br/>Run Query and use KQL to narrow down results
+<img src="https://i.imgur.com/eZuumCu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Add users:  <br/>
-<img src="https://i.imgur.com/LLQvUQ5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Upload summarized list of ip adresses into Sentinal and create a watchlist:  <br/>
+<img src="https://i.imgur.com/NvfEU6S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tVkA8JB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
